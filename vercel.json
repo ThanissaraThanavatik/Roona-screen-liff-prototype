@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/ui-overview/prototype.html",
+      "permanent": false
+    }
+  ]
+}
