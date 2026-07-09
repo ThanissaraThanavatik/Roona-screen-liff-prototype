@@ -8,6 +8,3 @@
 # Python (gen.py)
 __pycache__/
 *.pyc
-
-# Storybook build (สร้างเองก่อนใช้งาน prototype)
-storybook-static/

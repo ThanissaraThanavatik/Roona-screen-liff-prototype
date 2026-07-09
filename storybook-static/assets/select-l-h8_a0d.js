@@ -1,0 +1,6 @@
+import{j as r}from"./jsx-runtime-D_zvdyIk.js";import{r as c}from"./index-DURGLf5P.js";import{c as i}from"./cn-BLSKlp9E.js";import{c as l}from"./createLucideIcon-q2xymCcu.js";/**
+ * @license lucide-react v0.469.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const d=l("ChevronDown",[["path",{d:"m6 9 6 6 6-6",key:"qrunsl"}]]),o=c.forwardRef(({className:a,invalid:e,children:s,...t},n)=>r.jsxs("div",{className:"relative",children:[r.jsx("select",{ref:n,"aria-invalid":e||void 0,className:i("min-h-11 w-full appearance-none rounded-md border bg-white px-3 py-2 pr-9 text-base text-[var(--color-ink)]","focus:outline-none focus:ring-2 focus:ring-offset-1 focus:ring-[var(--color-ring)]",e?"border-[var(--color-border-error)] focus:border-[var(--color-border-error)]":"border-[var(--color-border-default)] focus:border-[var(--color-ring)]","disabled:bg-[var(--color-surface-sunken)] disabled:text-[var(--color-text-placeholder)]",a),...t,children:s}),r.jsx(d,{"aria-hidden":"true",size:18,className:"pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-[var(--color-ink-2)]"})]}));o.displayName="Select";o.__docgenInfo={description:"",methods:[],displayName:"Select",props:{invalid:{required:!1,tsType:{name:"boolean"},description:""}}};export{d as C,o as S};
